@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsuave",
+        "uuid": 1644678,
+        "checksum": "jkflwk"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
